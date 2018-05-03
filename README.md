@@ -1,7 +1,6 @@
 # Simulador de linha de onibus
 
 ### Objetivo amplo
-
 **Promover um serviço de qualidade, minimizando o custo**
 
 
