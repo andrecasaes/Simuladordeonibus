@@ -1,5 +1,10 @@
 # Simulador de linha de onibus
 
+### Objetivo amplo
+
+**Promover um serviço de qualidade, minimizando o custo**
+
+
 - Demanda
 - Fluxo de pessoas
 - Localização(ônibus)
@@ -25,8 +30,7 @@
 - "Compliance"
 - Intinerário
 - Chance de quebra (ano de fabricação?)
-- Sinistros
-
-### Objetivo amplo
-
-Promover um serviço de qualidade, minimizando o custo
+- Sinistros (acidentes, roubos)
+- Tipo de passageiro (educado, mal educado) 
+- Transporte de pessoas com deficiencia
+- Inspeção veicular
