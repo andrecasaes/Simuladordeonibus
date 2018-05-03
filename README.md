@@ -33,3 +33,6 @@
 - Tipo de passageiro (educado, mal educado) 
 - Transporte de pessoas com deficiencia
 - Inspeção veicular
+- Custo de manutenção
+- Valor da passagem
+- Carros - reserva
