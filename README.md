@@ -36,3 +36,11 @@
 - Custo de manutenção
 - Valor da passagem
 - Carros-reserva
+
+### Aspectos minimos para o projeto
+
+- Veículo
+- Passageiros
+- Motoristas
+- Parada
+  - tempoDeParadaObrigatória
