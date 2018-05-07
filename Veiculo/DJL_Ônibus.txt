@@ -1,0 +1,177 @@
+//Daniel Tulha Hochstetler - 10892589
+//José Luiz Borin Junior - 10723670
+//Levi de Oliveira Fernandes - 10724250
+
+public class Onibus 
+{
+    
+    
+	private double velocidade;
+    
+	private String conservacao;
+    
+	private String tamanho;
+    
+	private boolean adaptacao;
+    	
+	private int espaco;
+    
+	private int posicao;
+    
+	private int tempo_viagem_seg;
+    
+    
+
+	public double getVelocidade()
+    
+	{
+        
+    
+	}
+    
+    
+
+	public String getConservacao()
+    
+	{
+        
+    
+	}
+    
+    
+	
+	public String getTamanho()
+    
+	{
+        
+    
+	}
+    
+    
+
+	public boolean getAdaptacao()
+    
+	{
+        
+    
+	}
+    
+    
+	
+	public int getEspaco()
+    
+	{
+        
+    
+	}
+    
+    
+
+	public int getPosicao()
+    
+	{
+        
+    
+	}
+    
+    
+
+	public int getTempo()
+    
+	{
+        
+    
+	}
+    
+    
+	
+	public double getVelocidadeImprevisto()
+    
+	{
+        
+    
+	}
+    
+    
+
+	public int getQuantEmbarca()
+    
+	{
+        
+    
+	}
+    
+    
+
+	public int getQuantDesembarca()
+    
+	{
+        
+    
+	}
+    
+
+
+	public void setVelocidade(double velocidade)
+    
+	{
+        
+    
+	}
+    
+    
+
+	public void setConservacao(String conservacao)
+    
+	{
+        
+    
+	}
+    
+    
+	
+	public void setTamanho(int tamanho)
+    
+	{
+        
+    
+	}
+    
+    
+
+	public void setAdaptacao(boolean adaptacao)
+    
+	{
+        
+    
+	}
+    
+    
+	
+	public void setEspaco(int espaco)
+    
+	{
+        
+    
+	}
+    
+    
+
+	public void setPosicao(int posicao)
+    
+	{
+        
+    
+	}
+    
+    
+
+	public void setTempo(int tempo_viagem_seg)
+    
+	{
+        
+    
+	}
+    
+    
+}
