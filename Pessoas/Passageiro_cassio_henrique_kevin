@@ -1,0 +1,52 @@
+//Cassio Almeida Mattos Serrano 10882790
+//José Henrique da Costa 10851030
+//Kevin Seiti Aramaki 9790711
+
+public class Passageiro
+	{
+	int tempo_de_espera = 0;
+	int tempo_de_viagem = 0;
+	boolean necessidade_especial = false;
+	String origem = "";
+	String destino = "";
+	
+	void adiciona_tempo_de_espera(tempo)
+		{
+		tempo_de_espera = tempo_de_espera + tempo;
+		}
+	
+	void adiciona_tempo_de_viagem(tempo)
+		{
+		tempo_de_viagem = tempo_de_viagem + tempo;
+		}
+	
+	void set_necessidade_especial(bool)
+		{
+		necessidade_especial = bool;
+		}
+
+	boolean get_necessidade_especial()
+		{
+		return necessidade_especial;
+		}
+
+	void set_origem(nome)
+		{
+		origem = nome;
+		}
+
+	String get_origem()
+		{
+		return origem;
+		}
+
+	void set_destino(nome)
+		{
+		destino = nome;
+		}
+
+	String get_destino()
+		{
+		return destino;
+		}
+	}
