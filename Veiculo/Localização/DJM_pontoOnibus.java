@@ -1,7 +1,7 @@
 /*
-Daniel de Jesus Lima
-Jonathan Daniel Ramos
-Matheus Aquati Kurianski
+Daniel de Jesus Lima - 10723951
+Jonathan Daniel Ramos - 10857082
+Matheus Aquati Kurianski - 10687541
 */
 
 
@@ -34,4 +34,47 @@ interface Ponto {
 	void absPessoas(int abs); //Abstrai pessoas no ponto.
 	int getPessoas(); //Recebe o número de pessoas no ponto.
 
+}
+
+class pontoOnibus implements Ponto {
+	public String nome;
+	public int local;
+	public int pessoas;
+
+	public void setPontoInfo(String nome, int local){
+		this.nome = nome;
+		this.local = local;
+	}
+
+	public void setNome(String nome){
+		this.nome = nome;
+	}
+
+	public String getNome(){
+		return nome;
+	}
+
+	public void setLocal(int local){
+		this.local = local;
+	}
+
+	public int getLocal(){
+		return local;
+	}
+
+	public void setPessoas(int pessoas){
+		this.pessoas = pessoas;
+	}
+
+	public void addPessoas(int add){
+		pessoas+=add;
+	}
+
+	public void absPessoas(int abs){
+		pessoas-=abs;
+	}
+
+	public int getPessoas(){
+		return pessoas;
+	}
 }
